@@ -24,7 +24,7 @@
 
 > ### DFAD 2023 — Challenge on DeepFake Analysis and Detection
 >
-> **🏆 1st Place — DFAD 2023**  
+> **Based on — DFAD 2023**  
 > **Authors:** Davide Alessandro Coccomini, Giuseppe Amato, Fabrizio Falchi, Claudio Gennaro  
 > **Institution:** ISTI-CNR
 >
